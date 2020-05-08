@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+*.gz
+*.zip
+glove/
+20_newsgroup/
